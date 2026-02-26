@@ -2,7 +2,7 @@
   "name": "IREN Covered Call System",
   "short_name": "IREN Calls",
   "description": "IREN covered call signal dashboard & options crash course",
-  "start_url": "/",
+  "start_url": "/Options-Selling-Dashboard/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0a0a0c",
